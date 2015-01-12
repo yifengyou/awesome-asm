@@ -52,6 +52,9 @@ Disassembler
 * *ILDASM*
 >.NET Disassembler
 
+* *[Radare2](http://rada.re)*
+>An open-source complete framework for reverse-engineering and analyzing binaries; composed of a set of small utilities that can be used together or independently from the command line.
+
 Books
 ----------
 * *[Modern X86 Assembly Language Programming](http://www.apress.com/9781484200650)*
