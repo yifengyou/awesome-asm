@@ -20,7 +20,7 @@ Assembler List
 * *[YASM](http://yasm.tortall.net/)*
 >is an assembler and disassembler for the Intel x86 architecture. Yasm is a full rewrite of Netwide Assembler (NASM).
 
-* *FLASM*
+* *[FLASM](http://www.nowrap.de/flasm)*
 >Flasm is a free command line assembler/disassembler of Flash ActionScript bytecode. It lets you make changes to any SWF. Flasm fully supports SWFs produced by Macromedia Flash 8 and earlier.
 
 Disassembler
