@@ -81,6 +81,8 @@ External links
 * [Authoring Windows Applications In Assembly Language](http://www.grc.com/smgassembly.htm)
 * [Assembly Optimization Tips by Mark Larson](http://mark.masmcode.com/)
 * [Introduction to programming using Linux assembly language](http://www.programminggroundup.blogspot.fi/)
+* [x86 Assembly Guide](http://www.cs.virginia.edu/~evans/cs216/guides/x86.html)
+* [x86 Assembly Wikibook](https://en.wikibooks.org/wiki/X86_Assembly)
 
 ----------
 
