@@ -83,6 +83,7 @@ External links
 * [Introduction to programming using Linux assembly language](http://www.programminggroundup.blogspot.fi/)
 * [x86 Assembly Guide](http://www.cs.virginia.edu/~evans/cs216/guides/x86.html)
 * [x86 Assembly Wikibook](https://en.wikibooks.org/wiki/X86_Assembly)
+* [GCC-Inline-Assembly-HOWTO](http://www.ibiblio.org/gferg/ldp/GCC-Inline-Assembly-HOWTO.html)
 
 ----------
 
