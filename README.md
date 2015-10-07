@@ -17,6 +17,9 @@ Assembler List
 * *[ILASM - IL Assembler](http://msdn.microsoft.com/en-us/library/496e4ekx%28v=VS.100%29.aspx)*
 >ILAsm (IL Assembler) generates a portable executable (PE) file from Common Intermediate Language (CIL) code
 
+* *[PeachPy](https://github.com/Maratyszcza/PeachPy)*
+>is an x86-64 assembler embedded in Python which targets high-performance computing audience. PeachPy can generate object files or assembly listings for Windows, Linux, Mac OS X, Native Client, and Go from the same source
+
 * *[YASM](http://yasm.tortall.net/)*
 >is an assembler and disassembler for the Intel x86 architecture. Yasm is a full rewrite of Netwide Assembler (NASM).
 
