@@ -14,6 +14,9 @@ Assembler List
 * *[Netwide Assembler (NASM)](http://www.nasm.us/)*
 >is an assembler and disassembler for the Intel x86 architecture
 
+* *[Flat Assembler (FASM)](http://flatassembler.net/)*
+>is a fast assembly language compiler for the x86 architecture processors, which does multiple passes to optimize the size of generated machine code
+
 * *[ILASM - IL Assembler](http://msdn.microsoft.com/en-us/library/496e4ekx%28v=VS.100%29.aspx)*
 >ILAsm (IL Assembler) generates a portable executable (PE) file from Common Intermediate Language (CIL) code
 
