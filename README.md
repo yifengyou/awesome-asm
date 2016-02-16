@@ -73,7 +73,7 @@ Disassembler & Debuggers
 IDE
 ----------
 
-* *[Visual Studio 20**](https://www.visualstudio.com/)*
+* *[Visual Studio 20XX](https://www.visualstudio.com/)*
 >Microsoft Visual Studio is an integrated development environment (IDE) from Microsoft.
 
 * *[RadASM](http://oby.ro/rad_asm/)*
