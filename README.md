@@ -1,6 +1,5 @@
 Awesome Assembler [[wiki]](https://en.wikipedia.org/wiki/Assembly_language#Assembler)
 ----------
-![](http://i.imgur.com/tr6tTZE.png)
 
 A curated list of awesome Assembler :)
 
@@ -8,14 +7,18 @@ A curated list of awesome Assembler :)
 
 Assembler List
 ----------
+
+* *[Flat Assembler (FASM)](http://flatassembler.net/)*
+>is a fast assembly language compiler for the x86 architecture processors, which does multiple passes to optimize the size of generated machine code
+
 * *[Microsoft Macro Assembler (MASM)](https://www.microsoft.com/en-us/download/details.aspx?id=12654)*
 >is an x86 assembler that uses the Intel syntax for MS-DOS and Microsoft Windows
 
 * *[Netwide Assembler (NASM)](http://www.nasm.us/)*
 >is an assembler and disassembler for the Intel x86 architecture
 
-* *[Flat Assembler (FASM)](http://flatassembler.net/)*
->is a fast assembly language compiler for the x86 architecture processors, which does multiple passes to optimize the size of generated machine code
+* *[YASM](http://yasm.tortall.net/)*
+>is an assembler and disassembler for the Intel x86 architecture. Yasm is a full rewrite of Netwide Assembler (NASM).
 
 * *[ILASM - IL Assembler](http://msdn.microsoft.com/en-us/library/496e4ekx%28v=VS.100%29.aspx)*
 >ILAsm (IL Assembler) generates a portable executable (PE) file from Common Intermediate Language (CIL) code
@@ -23,18 +26,18 @@ Assembler List
 * *[PeachPy](https://github.com/Maratyszcza/PeachPy)*
 >is an x86-64 assembler embedded in Python which targets high-performance computing audience. PeachPy can generate object files or assembly listings for Windows, Linux, Mac OS X, Native Client, and Go from the same source
 
-* *[YASM](http://yasm.tortall.net/)*
->is an assembler and disassembler for the Intel x86 architecture. Yasm is a full rewrite of Netwide Assembler (NASM).
-
 * *[FLASM](http://www.nowrap.de/flasm)*
 >Flasm is a free command line assembler/disassembler of Flash ActionScript bytecode. It lets you make changes to any SWF. Flasm fully supports SWFs produced by Macromedia Flash 8 and earlier.
 
 * *[XEDParse](https://github.com/x64dbg/XEDParse)*
 >XEDParse is an open source (LGPLv3) library for assembling single x86(-x64) instructions from text to bytes. Useful to integrate in reverse engineering frameworks to quickly assemble instructions.
 
-Disassembler
+* *[HLA](http://www.plantation-productions.com/Webster/HighLevelAsm/index.html)*
+>High Level Assembly (HLA) is an assembly language developed by Randall Hyde. It allows the use of higher-level language constructs to aid both beginners and advanced assembly developers. It fully supports advanced data types and object-oriented assembly language programming. It uses a syntax loosely based on several high-level languages (HLL), such as Pascal, Ada, Modula-2, and C++, to allow creating readable assembly language programs, and to allow HLL programmers to learn HLA as fast as possible.
+
+Disassembler & Debuggers
 ----------
-* *[IDA PRO or Hex-Rays](https://www.hex-rays.com/products/ida/index.shtml)*
+* *[IDA PRO](https://www.hex-rays.com/products/ida/index.shtml)*
 >32/64-bit proprietary software. [wiki](http://en.wikipedia.org/wiki/Interactive_Disassembler)
 
 * *[IDA Free](https://www.hex-rays.com/products/ida/support/download_freeware.shtml)* 
@@ -66,6 +69,27 @@ Disassembler
 
 * *[Radare2](http://rada.re)*
 >An open-source complete framework for reverse-engineering and analyzing binaries; composed of a set of small utilities that can be used together or independently from the command line.
+
+IDE
+----------
+
+* *[Visual Studio 20**](https://www.visualstudio.com/)*
+>Microsoft Visual Studio is an integrated development environment (IDE) from Microsoft.
+
+* *[RadASM](http://oby.ro/rad_asm/)*
+>RadASM — a free Integrated development environment for Microsoft Windows originally designed for writing programs in assembly language. It has a flexible system of configuration files, and can be used to develop software in high-level programming languages and to author documents based on a markup language. It was created by the programmer Ketil Olsen (KetilO).
+
+* *[EasyCode](http://www.easycode.cat/)*
+>Easy Code is the visual assembly programming environment made to build 32-bit Windows applications. The Easy Code interface, looking like Visual Basic, allows you to program Windows assembler applications (executable files, dynamic and static libreries, COFF object files, console applications, drivers and services) done in an easy way as was never possible before
+
+* *[WinAsm Studio](http://www.winasm.net/)*
+>WinAsm Studio is a free Integrated Development Environment IDE for developing 32-bit Windows and 16-bit DOS programs using the Assembler.
+
+* *[Visual MASM](http://www.visualmasm.com/)*
+>IDE for MASM written in Delphi. What? It is dev brain.
+
+* *[MASM Builder](http://www.digitaction.com/index.php/products/masm-builder-integrated-development-environment-for-masm32.html)*
+>ASM Builder is a free Integrated Development Environment IDE for developing 32-bit Windows programs using the Assembler. MASM Builder contains many useful features which will assist you in creating Windows API based programs.
 
 Books
 ----------
