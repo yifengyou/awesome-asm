@@ -73,7 +73,7 @@ Disassembler & Debuggers
 IDE
 ----------
 
-* *[Visual Studio 20XX](https://www.visualstudio.com/)*
+* *[Visual Studio 20**](https://www.visualstudio.com/)*
 >Microsoft Visual Studio is an integrated development environment (IDE) from Microsoft.
 
 * *[RadASM](http://oby.ro/rad_asm/)*
@@ -90,6 +90,9 @@ IDE
 
 * *[MASM Builder](http://www.digitaction.com/index.php/products/masm-builder-integrated-development-environment-for-masm32.html)*
 >ASM Builder is a free Integrated Development Environment IDE for developing 32-bit Windows programs using the Assembler. MASM Builder contains many useful features which will assist you in creating Windows API based programs.
+
+* *[SASM](https://dman95.github.io/SASM/)*
+>SASM (SimpleASM) - simple Open Source crossplatform IDE for NASM, MASM, GAS, FASM assembly languages. SASM has syntax highlighting and debugger. The program works out of the box and is great for beginners to learn assembly language. SASM is translated into Russian and English. Licensed under the GNU GPL v3.0. Based on the Qt.
 
 Books
 ----------
